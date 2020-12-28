@@ -1,5 +1,5 @@
 RedditBots
-These are coded in python using the urllib and Requests libraries
+Coded in python using the urllib and Requests libraries
 Scrubs dictionary sites for definitions when it finds a user who asks for a definition. 
 
 ![alt tag](https://github.com/austings/RedditBots/blob/master/preview3.png)
